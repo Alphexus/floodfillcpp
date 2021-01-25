@@ -27,7 +27,6 @@ int grid[ROWS][COLLUMNS] = {
 
 typedef std::pair<int, int> nodeTemplate;
 
-void initialize();
 void render();
 void floodfill();
 
